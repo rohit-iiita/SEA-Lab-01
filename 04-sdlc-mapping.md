@@ -1,4 +1,4 @@
-# D3 --- SDLC Failure Mapping: Healthcare.gov
+# SDLC Failure Mapping: Healthcare.gov
 
 ## Objective
 
