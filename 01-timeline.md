@@ -1,4 +1,4 @@
-# D1 --- Failure Timeline: Healthcare.gov Launch Failure
+# Failure Timeline: Healthcare.gov Launch Failure
 
 ## Overview
 
